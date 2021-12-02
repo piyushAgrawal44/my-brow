@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/my-brow/static/css/main.73f83c93.chunk.css",
-    "main.js": "/my-brow/static/js/main.d372ddcd.chunk.js",
-    "main.js.map": "/my-brow/static/js/main.d372ddcd.chunk.js.map",
-    "runtime-main.js": "/my-brow/static/js/runtime-main.5e0c0156.js",
-    "runtime-main.js.map": "/my-brow/static/js/runtime-main.5e0c0156.js.map",
-    "static/js/2.834d5b85.chunk.js": "/my-brow/static/js/2.834d5b85.chunk.js",
-    "static/js/2.834d5b85.chunk.js.map": "/my-brow/static/js/2.834d5b85.chunk.js.map",
-    "static/js/3.8ac953d7.chunk.js": "/my-brow/static/js/3.8ac953d7.chunk.js",
-    "static/js/3.8ac953d7.chunk.js.map": "/my-brow/static/js/3.8ac953d7.chunk.js.map",
+    "main.css": "/my-brow/static/css/main.d66924d3.chunk.css",
+    "main.js": "/my-brow/static/js/main.74ae4e49.chunk.js",
+    "main.js.map": "/my-brow/static/js/main.74ae4e49.chunk.js.map",
+    "runtime-main.js": "/my-brow/static/js/runtime-main.9ebfc89e.js",
+    "runtime-main.js.map": "/my-brow/static/js/runtime-main.9ebfc89e.js.map",
+    "static/js/2.6dc0d54b.chunk.js": "/my-brow/static/js/2.6dc0d54b.chunk.js",
+    "static/js/2.6dc0d54b.chunk.js.map": "/my-brow/static/js/2.6dc0d54b.chunk.js.map",
+    "static/js/3.7049aa75.chunk.js": "/my-brow/static/js/3.7049aa75.chunk.js",
+    "static/js/3.7049aa75.chunk.js.map": "/my-brow/static/js/3.7049aa75.chunk.js.map",
     "index.html": "/my-brow/index.html",
-    "static/css/main.73f83c93.chunk.css.map": "/my-brow/static/css/main.73f83c93.chunk.css.map",
-    "static/js/2.834d5b85.chunk.js.LICENSE.txt": "/my-brow/static/js/2.834d5b85.chunk.js.LICENSE.txt"
+    "static/css/main.d66924d3.chunk.css.map": "/my-brow/static/css/main.d66924d3.chunk.css.map",
+    "static/js/2.6dc0d54b.chunk.js.LICENSE.txt": "/my-brow/static/js/2.6dc0d54b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.5e0c0156.js",
-    "static/js/2.834d5b85.chunk.js",
-    "static/css/main.73f83c93.chunk.css",
-    "static/js/main.d372ddcd.chunk.js"
+    "static/js/runtime-main.9ebfc89e.js",
+    "static/js/2.6dc0d54b.chunk.js",
+    "static/css/main.d66924d3.chunk.css",
+    "static/js/main.74ae4e49.chunk.js"
   ]
 }
