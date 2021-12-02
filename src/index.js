@@ -3,10 +3,10 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-
+var githubUserName= prompt("Please Enter Your Github User Name");
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <App githubUserName={githubUserName} />
   </React.StrictMode>,
   document.getElementById('root')
 );
