@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/my-brow/static/css/main.d66924d3.chunk.css",
-    "main.js": "/my-brow/static/js/main.74ae4e49.chunk.js",
-    "main.js.map": "/my-brow/static/js/main.74ae4e49.chunk.js.map",
+    "main.js": "/my-brow/static/js/main.87d1be7d.chunk.js",
+    "main.js.map": "/my-brow/static/js/main.87d1be7d.chunk.js.map",
     "runtime-main.js": "/my-brow/static/js/runtime-main.9ebfc89e.js",
     "runtime-main.js.map": "/my-brow/static/js/runtime-main.9ebfc89e.js.map",
     "static/js/2.6dc0d54b.chunk.js": "/my-brow/static/js/2.6dc0d54b.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.9ebfc89e.js",
     "static/js/2.6dc0d54b.chunk.js",
     "static/css/main.d66924d3.chunk.css",
-    "static/js/main.74ae4e49.chunk.js"
+    "static/js/main.87d1be7d.chunk.js"
   ]
 }
